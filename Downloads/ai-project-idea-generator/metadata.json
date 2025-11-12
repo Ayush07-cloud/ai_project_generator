@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Idea Generator",
+  "description": "An AI-powered project idea generator that provides personalized, detailed project blueprints for developers. Enter your skills, experience level, and career goals to receive tailored project ideas designed to enhance your portfolio and help you land a job.",
+  "requestFramePermissions": []
+}
